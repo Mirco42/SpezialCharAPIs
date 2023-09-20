@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsp:Policy xmlns:L7p="http://www.layer7tech.com/ws/policy" xmlns:wsp="http://schemas.xmlsoap.org/ws/2002/12/policy">
+    <wsp:All wsp:Usage="Required">
+        <L7p:Include>
+            <L7p:PolicyGuid stringValue="9795d63d-a391-4e9a-bbc4-e318bd0aa82d"/>
+            <L7p:PolicyName stringValue="b"/>
+        </L7p:Include>
+        <L7p:Include>
+            <L7p:PolicyGuid stringValue="bfab7e40-451b-45ff-85b6-b83bbe4aaef8"/>
+            <L7p:PolicyName stringValue="c"/>
+        </L7p:Include>
+    </wsp:All>
+</wsp:Policy>
