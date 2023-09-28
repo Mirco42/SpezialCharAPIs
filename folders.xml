@@ -3,14 +3,14 @@
       <l7:Folder id="0000000000000000ffffffffffffec76" version="0">
         <l7:Name>Root Node</l7:Name>
       </l7:Folder>
-      <l7:Folder folderId="0000000000000000ffffffffffffec76" id="7b887f108e2ed09097d23106b6206977" version="0">
-        <l7:Name>Spe$ial Char&gt;&lt;APIs</l7:Name>
+      <l7:Folder folderId="0000000000000000ffffffffffffec76" id="db43860e6bf44ed03aba180b2d111f07" version="0">
+        <l7:Name>&lt;&amp;&gt;</l7:Name>
       </l7:Folder>
-      <l7:Folder folderId="7b887f108e2ed09097d23106b6206977" id="7b887f108e2ed09097d23106b62069c7" version="0">
-        <l7:Name>policies</l7:Name>
+      <l7:Folder folderId="db43860e6bf44ed03aba180b2d111f07" id="db43860e6bf44ed03aba180b2d111fd7" version="0">
+        <l7:Name>hexo</l7:Name>
       </l7:Folder>
-      <l7:Folder folderId="7b887f108e2ed09097d23106b6206977" id="7b887f108e2ed09097d23106b6206a4a" version="0">
-        <l7:Name>apis</l7:Name>
+      <l7:Folder folderId="db43860e6bf44ed03aba180b2d111fd7" id="db43860e6bf44ed03aba180b2d11201b" version="0">
+        <l7:Name>hallo &amp; tschu</l7:Name>
       </l7:Folder>
     </l7:Folders>
   </l7:Export>

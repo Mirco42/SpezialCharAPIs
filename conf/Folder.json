@@ -2,13 +2,18 @@
     "folder": [
         {
             "folderId": "0000000000000000ffffffffffffec76",
-            "name": "Spe$ial Char><APIs",
-            "id": "7b887f108e2ed09097d23106b6206977"
+            "name": "<&>",
+            "id": "db43860e6bf44ed03aba180b2d111f07"
         },
         {
-            "folderId": "7b887f108e2ed09097d23106b6206977",
-            "name": "apis",
-            "id": "7b887f108e2ed09097d23106b6206a4a"
+            "folderId": "db43860e6bf44ed03aba180b2d111f07",
+            "name": "hexo",
+            "id": "db43860e6bf44ed03aba180b2d111fd7"
+        },
+        {
+            "folderId": "db43860e6bf44ed03aba180b2d111fd7",
+            "name": "hallo & tschu",
+            "id": "db43860e6bf44ed03aba180b2d11201b"
         }
     ]
 }
